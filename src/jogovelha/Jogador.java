@@ -12,12 +12,9 @@ public class Jogador {
 
     public String getNome() {
         return nome;
-        //Aqui a gente pode futuramente fazer algo assim: Jogaor jogador1 = new Jogador("Izabele", Simbolo.X);
-        //E depois jogador1.getNome();
     }
 
     public Simbolo getSimbolo() {
         return simbolo;
-        //Mesma coisa, só que jogador1.getSimbolo(); :D
     }
 }
